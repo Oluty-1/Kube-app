@@ -19,4 +19,4 @@ spec:
         image: memecached
         ports:
           - name: vpromc-port
-          - containerPort: 11211
+            containerPort: 11211
